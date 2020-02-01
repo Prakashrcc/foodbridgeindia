@@ -11,7 +11,7 @@ public class chefController {
 	@RequestMapping("/chef")
 	public String func(HttpServletRequest request,HttpServletResponse response) {
 		
-		return "chef";
+		return "chef.jsp";
 	}
 
 }

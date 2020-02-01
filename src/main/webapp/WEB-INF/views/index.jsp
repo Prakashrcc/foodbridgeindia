@@ -33,7 +33,7 @@
         <nav class="website-nav">
           <ul>
             <li><a class="home-link" href="https://aws.amazon.com/">Home</a></li>
-            <li><a href="https://aws.amazon.com/what-is-cloud-computing/">About</a></li>
+            <li><a href="chef.jsp">About</a></li>
             <li><a href="https://aws.amazon.com/solutions/">Services</a></li>
             <li><a href="https://aws.amazon.com/contact-us/">Contact</a></li>
           </ul>
